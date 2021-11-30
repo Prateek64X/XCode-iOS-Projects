@@ -23,4 +23,4 @@ Mobile App Tutorial links:
 8. Create an App to demonstrate Switches - https://www.youtube.com/watch?v=xLBkqKJzFyE
 9. Create an App Using Constraints - https://www.youtube.com/watch?v=HuCx6dGaY1g
 10. Create an App Using View Controller life cycle - 
-11. How to add Alerts & Action Sheets in Swift - https://youtu.be/yVwQ7oWMxnk  AND       https://www.youtube.com/watch?v=gJBQ1HB_244 - done
+11. How to add Alerts & Action Sheets in Swift - https://youtu.be/yVwQ7oWMxnk - done
