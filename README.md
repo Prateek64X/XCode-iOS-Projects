@@ -20,7 +20,7 @@ Mobile App Tutorial links:
 5. Slider - https://youtu.be/zTDUcwn6zyU (Earrape warning) - done
 6. Date Picker - https://youtu.be/fnq4wEDeQqA - done
 7. Auto Layout - https://youtu.be/HuCx6dGaY1g - done
-8. Create an App to demonstrate Switches - https://www.youtube.com/watch?v=xLBkqKJzFyE
+8. Create an App to demonstrate Switches - https://www.youtube.com/watch?v=xLBkqKJzFyE - done
 9. Create an App Using Constraints - https://www.youtube.com/watch?v=HuCx6dGaY1g
 10. Create an App Using View Controller life cycle - 
 11. How to add Alerts & Action Sheets in Swift - https://youtu.be/yVwQ7oWMxnk - done
