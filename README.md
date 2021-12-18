@@ -10,9 +10,10 @@ Instructions:
  1. Double click to unzip contents of file 
  2. Click "Open another project" in Xcode and select "project folder" inside unzipped folder (It should contain .xcodeproj file)
 
+Video Instructions:
+https://www.youtube.com/watch?v=_io8PWHFnFE
 
 Mobile App Tutorial links:
-
 1. Image Viewer - https://youtu.be/Tb9J08y5a4w - done
 2. UIScroll View - https://youtu.be/orONrVT6CAg - done (buggy)
 3. Table View - https://youtu.be/C36sb5sc6lE - done
